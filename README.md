@@ -35,8 +35,8 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.cabaia.fr/"><img src="https://www.cabaia.fr/cdn/shop/files/GRAPHISME-G-NEW-LOGO-PRINCIPAL-BLEU-RVB_c9a92d2f-2047-4f21-9aae-adf7cd28d476_60x.png" alt="Cabaïa"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://puissante.co/"><img src="https://cdn.shopify.com/s/files/1/0561/9607/1610/files/logo_puissante_60x.png" alt="Puissante"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://fridaybae.com/"><img src="https://fridaybae.com/cdn/shop/files/favicon_60x.png" alt="Friday Bae"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.concept-usine.com/"><img src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/356999495_736320708499996_860696711320799708_n.png?_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=IaeMalSM4PgAX8LB21e&_nc_ht=scontent-cdg4-1.xx&oh=00_AfDghrel02jVDFCyOHIAb16W4Ld26_JRJYdYUJSDTGVZKw&oe=65C0CF52" style="height:60px; border-radius:100%" alt="Concept Usine"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://balzac-paris.com/"><img src="https://balzac-paris.com/cdn/shop/files/apple-touch-icon_60x.png?v=9746419584700339030" style="border-radius:100%" alt="Balzac"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.concept-usine.com/"><img src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/356999495_736320708499996_860696711320799708_n.png?_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=IaeMalSM4PgAX8LB21e&_nc_ht=scontent-cdg4-1.xx&oh=00_AfDghrel02jVDFCyOHIAb16W4Ld26_JRJYdYUJSDTGVZKw&oe=65C0CF52" style="height:60px;border-radius:60px;" alt="Concept Usine"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://balzac-paris.com/"><img src="https://balzac-paris.com/cdn/shop/files/apple-touch-icon_60x.png?v=9746419584700339030" style="border-radius:60px;" alt="Balzac"></a>
 
 ### <samp>👀 Find me on</samp>
 
