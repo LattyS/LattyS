@@ -34,7 +34,7 @@
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.cabaia.fr/"><img src="https://www.cabaia.fr/cdn/shop/files/GRAPHISME-G-NEW-LOGO-PRINCIPAL-BLEU-RVB_c9a92d2f-2047-4f21-9aae-adf7cd28d476_60x.png" alt="Cabaïa"></a>&nbsp;
 <a target="_blank" href="https://puissante.co/"><img src="https://cdn.shopify.com/s/files/1/0561/9607/1610/files/logo_puissante_60x.png" alt="Puissante"></a>&nbsp;
-<a target="_blank"" href="https://fridaybae.com/"><img src="https://fridaybae.com/cdn/shop/files/favicon_60x.png" alt="Friday Bae"></a>&nbsp;
+<a target="_blank" href="https://fridaybae.com/"><img src="https://fridaybae.com/cdn/shop/files/favicon_60x.png" alt="Friday Bae"></a>&nbsp;
 <a target="_blank" href="https://www.loveandcare.fr/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/main/loveandcare.png" style="height:60px;" alt="Love and Care"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://workwithisland.com/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/main/workwithsland.png" style="height:60px;" alt="Work With Island"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.concept-usine.com/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/main/conceptu.png" style="height:60px;" alt="Concept Usine"></a>&nbsp;
