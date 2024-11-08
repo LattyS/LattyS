@@ -4,7 +4,7 @@
 
 <p align="center">
     <samp>
-        <small>&nbsp;I code from home while listening to the cringiest songs 💃</small>
+        <small>&nbsp;Shopify Front-End Developer since 2020</small>
     </samp>
 </p>
 
