@@ -10,7 +10,7 @@
 
 
 <p align="center">
-    <img width="250" src="https://raw.githubusercontent.com/LattyS/LattyS/main/3dgifmaker31919.gif">
+    <img width="250" src="https://raw.githubusercontent.com/LattyS/LattyS/refs/heads/main/6M8G.gif">
 </p>
 
 ### <samp>🛠 Technologies and tools</samp>
@@ -33,6 +33,8 @@
 ### <samp>Made with 💖 on <img align="center" src="https://cdn.shopify.com/static/shopify-favicon_20x.png" alt="Shopify"></samp>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.cabaia.fr/"><img src="https://www.cabaia.fr/cdn/shop/files/GRAPHISME-G-NEW-LOGO-PRINCIPAL-BLEU-RVB_c9a92d2f-2047-4f21-9aae-adf7cd28d476_60x.png" alt="Cabaïa"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://balzac-paris.com/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/refs/heads/main/balzac.png" style="height:60px;" alt="Balzac"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.passagedudesir.fr/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/refs/heads/main/pdd.png" style="height:60px;" alt="Passage du désir"></a>&nbsp;
 <a target="_blank" href="https://puissante.co/"><img src="https://cdn.shopify.com/s/files/1/0561/9607/1610/files/logo_puissante_60x.png" alt="Puissante"></a>&nbsp;
 <a target="_blank" href="https://fridaybae.com/"><img src="https://fridaybae.com/cdn/shop/files/favicon_60x.png" alt="Friday Bae"></a>&nbsp;
 <a target="_blank" href="https://www.loveandcare.fr/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/main/loveandcare.png" style="height:60px;" alt="Love and Care"></a>&nbsp;
@@ -40,7 +42,8 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.concept-usine.com/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/main/conceptu.png" style="height:60px;" alt="Concept Usine"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.lescuistotsmigrateurs.com/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/main/cuistots.png" style="height:60px;" alt="Les Cuistots Migrateurs"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://akillis.com/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/main/akillis.png" style="height:60px;" alt="Akillis"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://balzac-paris.com/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/main/balzac.png" style="height:60px;" alt="Balzac"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://geoplanete.fr/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/refs/heads/main/geoplanete.png" style="height:60px;" alt="Geoplanete"></a>
+
 
 ### <samp>👀 Find me on</samp>
 
