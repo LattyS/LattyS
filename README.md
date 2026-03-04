@@ -33,7 +33,7 @@
 ### <samp>Made with 💖 on <img align="center" src="https://cdn.shopify.com/static/shopify-favicon_20x.png" alt="Shopify"></samp>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.cabaia.fr/"><img src="https://www.cabaia.fr/cdn/shop/files/GRAPHISME-G-NEW-LOGO-PRINCIPAL-BLEU-RVB_c9a92d2f-2047-4f21-9aae-adf7cd28d476_60x.png" alt="Cabaïa"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.biologique-recherche.com/fr-fr"><img src="https://raw.githubusercontent.com/LattyS/LattyS/refs/heads/main/biologiquerecherche.png" alt="Biologique Recherche"></a>&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.biologique-recherche.com/fr-fr"><img src="https://raw.githubusercontent.com/LattyS/LattyS/refs/heads/main/br.png" alt="Biologique Recherche"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://balzac-paris.com/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/refs/heads/main/balzac.png" style="height:60px;" alt="Balzac"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.passagedudesir.fr/"><img src="https://raw.githubusercontent.com/LattyS/LattyS/refs/heads/main/pdd.png" style="height:60px;" alt="Passage du désir"></a>&nbsp;
 <a target="_blank" href="https://puissante.co/"><img src="https://cdn.shopify.com/s/files/1/0561/9607/1610/files/logo_puissante_60x.png" alt="Puissante"></a>&nbsp;
